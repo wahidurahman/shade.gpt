@@ -1,0 +1,4 @@
+{"fraud": "unusual", "completion": "This transaction is fraudulent"}
+{"suspect": "unusual", "completion": "This transaction is peculiar"}
+{"approved": "approved", "completion": "This transaction is good!"}
+...
